@@ -1,0 +1,73 @@
+.space{
+    width: 100%;
+    height:100px;
+}
+
+form{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+input{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+select{
+    width: 250px;
+    height:30px;
+    border-radius: 4px;
+
+
+}
+
+.male{
+    width: 80px;
+
+}
+
+.Regform{
+
+    font-weight: bold;
+    background-color:lightblue;
+    color: black;
+    width: 1000px;
+    height: 100%;
+    margin-left: 260px;
+    margin-top: 80px;
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+td{
+    margin-bottom: 10px;
+}
+
+.TextAA{
+    width: 300px;
+    height: 80px;
+    border-radius: 5px;
+}
+button{
+    width: 220px;
+    height: 40px;
+    background-color:lightseagreen;
+    color: black;
+    padding: 32 64px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 300px;
+    margin-top: 100px;
+    border-radius: 10px;
+
+}
+button:hover{
+    background-color: aqua;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+}

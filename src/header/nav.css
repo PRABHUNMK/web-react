@@ -1,0 +1,34 @@
+.content{
+    display: flex;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
+    margin-left: -100px;
+   
+   
+}
+
+nav{
+   max-width: 100%;
+}
+.lll{
+    list-style-type: none;
+    text-decoration: none;
+    color: #fff;
+}
+
+li{
+    list-style-type:none;
+    padding: 20px;
+    flex-grow: 1;
+    background-color: blue;
+    text-decoration: none;
+    text-align: center;
+    
+}
+li:hover
+{
+    background-color: #555;
+    cursor: pointer;
+}
+
